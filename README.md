@@ -1,4 +1,4 @@
-# SurvivingOwl
+# Surviving Owl game. April 2019
  A simple 2D game in C++. <br>
 Made with sprite animation and QT.<br>
 The owl moves in any direction with <b>WASD</b> keys.<br>
