@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bkg.png</file>
+        <file>stone2.png</file>
+        <file>test.png</file>
+        <file>music.mp3</file>
+        <file>death.png</file>
+        <file>fly.png</file>
+        <file>idle.png</file>
+        <file>heart.png</file>
+    </qresource>
+    <qresource prefix="/but">
+        <file>heart.png</file>
+        <file>OFF1.png</file>
+        <file>ON1.png</file>
+    </qresource>
+</RCC>
